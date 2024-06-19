@@ -1,6 +1,6 @@
 # "Student Marks Prediction"
 A machine learning application built using Python and scikit-learn.
-
+ 
 ## Description
 Student Marks Prediction is a tool designed to forecast students' marks based on various features such as gender, race/ethnicity, parental level of education, lunch type, test preparation course, and scores in math, reading, and writing. By leveraging machine learning algorithms, this application aims to provide accurate predictions that can help students understand their academic standing and identify areas for improvement.
 
